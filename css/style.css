@@ -1,0 +1,22 @@
+body{
+        background: #D3D3D3;
+        margin: 2px;
+        }
+.parent {
+        background: white;
+        margin: 0px auto;
+        width: 600px;
+        height: auto;
+        padding: 40px;
+   } 
+img{
+		width: inherit;
+        height: 30%;
+}
+.txt{
+		margin: 15px;
+        font-size: 120%;
+}   
+ul{
+		font-size: 120%;
+        }
