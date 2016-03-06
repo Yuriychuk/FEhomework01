@@ -2,21 +2,21 @@ body{
         background: #D3D3D3;
         margin: 2px;
         }
-.parent {
+.sheet{
         background: white;
         margin: 0px auto;
         width: 600px;
         height: auto;
         padding: 40px;
-   } 
+        }
 img{
-		width: inherit;
-        height: 30%;
-}
+        display: block;
+        margin: 0 auto;
+        }
+.txt1{
+		text-align: center;
+        }   
 .txt{
 		margin: 15px;
         font-size: 120%;
-}   
-ul{
-		font-size: 120%;
         }
